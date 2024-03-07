@@ -1,4 +1,4 @@
-#Magento 2 Email Quote / Request for Quote Extension [PRO]
+# Magento 2 Email Quote / Request for Quote Extension [PRO]
 
 ![email-quote-pro-tigren-pwa](https://github.com/patelanny/magento-2-email-quote-pro/assets/121279820/2735dcd4-9468-49fc-ba07-c24e9e24d52a)
 
